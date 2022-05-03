@@ -98,7 +98,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0, 0, 0 / 40%);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
 
@@ -114,7 +114,6 @@ img {
   text-align: left;
   color: #4a4a4a;
   padding: 0 20px 20px 20px;
-
 }
 
 
