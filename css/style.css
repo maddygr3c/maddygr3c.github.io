@@ -35,7 +35,7 @@ main {
 }
 
 h1 {
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Syne', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -125,7 +125,7 @@ img {
 footer div {
 
   height: 100%;
-    font-family: 'Syne' , sans-serif;
+    font-family: 'Syne', sans-serif;
     font-size: 14px;
     display: flex;
     align-content: center;
